@@ -1,4 +1,5 @@
-# connect with Firebase
+# connect app ,
+it is group chat app by using Firebase
 
 ![1679061251559](https://user-images.githubusercontent.com/82909291/225926383-50a9a28c-0f77-4446-aa06-f220ee35d949.jpg)
 ![1679061251544](https://user-images.githubusercontent.com/82909291/225926404-d35472af-dcbf-4234-9484-1dbd72eef6c4.jpg)
